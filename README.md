@@ -1,0 +1,3 @@
+# Data-Analytics
+
+Python Lambda Function that fetches City Of Cape Town Health Care Facility from REST API and populates an AWS DynamoDB table...
